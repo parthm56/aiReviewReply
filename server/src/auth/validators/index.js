@@ -1,0 +1,1 @@
+export { validateRigster, validateLogin } from './register.validator.js';
